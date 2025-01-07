@@ -2,6 +2,17 @@
 
 A tiny example of a native macOS app built with Objective-C and without Xcode.
 
+## Instructions
+
+From the terminal:
+
+```
+$ make
+$ make run
+```
+
+The app bundle is `Hello.app`.
+
 ## Screenshot
 
 ![A screenshot of the application, showing a single window with the text 'Hello, world!'](screenshot.png)
